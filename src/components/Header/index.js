@@ -91,7 +91,7 @@ const navLinks = [
     },
   },*/
   {
-    title: "Blog",
+    title: "Blog2",
     url: "/lifestyle",
   },
   {
